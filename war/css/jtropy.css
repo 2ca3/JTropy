@@ -1,0 +1,70 @@
+@charset "UTF-8";
+
+/*
+Title: JTropy
+Author: 2ca3
+*/
+
+body {
+  color: black;
+  ground-color: #ffffff;
+  margin: 0px;
+  padding: 0px;
+}
+
+div.main{
+  text-align:center;
+  margin:0 auto;
+}
+
+div.error{
+  font-weight: bold;
+  color: red;
+}
+
+table.tbl {
+  margin-left:auto;margin-right:auto;
+  width: 468px;
+}
+
+td.btn {
+  text-align: right;
+}
+
+td.title {
+  background-color: #ffffff;
+  font-size:20px;
+  font-weight: bold;
+  color: #00cc00;
+  border: 2px #00ff00 solid;
+}
+
+td.body {
+  background-color: #ffffff;
+  color: #3366ff;
+  border: 2px #3399ff solid;
+}
+
+td.body2 {
+  background-color: #ffffff;
+  font-size:20px;
+  font-weight: bold;
+  color: #3366ff;
+  border: 2px #3399ff solid;
+}
+
+input.text{
+  background-color:#f4ffea;
+  border-top:1px solid #00ff00;
+  border-bottom:1px solid #00ff00;
+  border-left:1px solid #00ff00;
+  border-right:1px solid #00ff00;
+}
+
+textarea.area{
+  background-color:#f0ffff;
+  border-top:1px solid #3399ff;
+  border-bottom:1px solid #3399ff;
+  border-left:1px solid #3399ff;
+  border-right:1px solid #3399ff;
+}

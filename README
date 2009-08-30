@@ -1,0 +1,13 @@
+JToropyへようこそ。
+
+JToropyはTropy(とろぴぃ)クローンです。Javaで出来ています。
+Tropy(とろぴぃ)とは結城浩さんが作ったCGIです。詳しくは以下参照。
+http://d.hatena.ne.jp/keyword/Tropy
+
+2005年11月からJTropyを自宅サーバで公開していましたが
+諸般の事情により、自宅サーバの維持が困難になったため
+Google App Engine上で公開することにしました。
+また、今回Google App Engine上で動かすにあたり一から作り直しました。
+JavaDocコメントは不適切な状態です。おいおい追記するかも知れないです。
+
+http://jtropy.appspot.com/
